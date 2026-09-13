@@ -1,17 +1,17 @@
-# Section 01 — AI Fundamentals
+# TryHackMe AI Security — Section 01: AI Fundamentals
 
 ## Overview
 
 This section establishes the foundational knowledge required to understand
 Artificial Intelligence and its security implications.
 
-The section covers how AI systems work, common AI security threats, the
-importance of models and data, prompt engineering, and the use of AI in
-digital forensics.
+It is the first section of the TryHackMe AI Security pathway and covers how
+AI systems work, common AI security threats, the importance of models and
+data, prompt engineering, and the use of AI in digital forensics.
 
 Rather than focusing only on theoretical concepts, I am using this section
 to build the foundation required for deeper AI Security, AI Red Teaming,
-and AI Defense work.
+and AI Defense work..
 
 ---
 
