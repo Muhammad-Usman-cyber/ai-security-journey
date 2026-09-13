@@ -142,50 +142,49 @@ vulnerability research experience.
 
 ---
 
-## AI Security Learning Path
+## AI Security Learning Journey
 
-This repository documents my practical journey into AI Security.
+This repository documents my ongoing journey into AI Security through
+multiple learning sources, practical exercises, research, and independent
+projects.
 
-The learning journey consists of **5 sections** followed by practical
-capstone work.
+My current structured learning includes the **TryHackMe AI Security**
+pathway, which consists of 5 sections followed by practical capstone work.
 
-### Section 01 — AI Fundamentals
-
-Completed rooms:
-
-- The Building Blocks of AI
-- AI Security Threats
-- AI Models & Data
-- Prompt Engineering
-- AI Forensics
-
-**Status:** ✅ Completed
-
-This section introduced foundational concepts required to understand AI
-systems, AI security threats, models and data, prompt engineering, and
-AI forensics.
-
-Further sections will be documented as I progress through the pathway.
+As I progress, I will also add relevant AI Security learning from other
+platforms, programs, certifications, research, and hands-on projects.
 
 ---
 
 ## Documentation Philosophy
 
-I will not document every individual learning room.
+This repository documents my **overall AI Security learning journey** across
+different platforms, training programs, practical exercises, research, and
+projects.
 
-Instead, this repository focuses on the most valuable practical work:
+The goal is not to document every individual learning activity. Instead, I
+focus on work that demonstrates meaningful understanding and practical
+application.
 
-- Section-level learning summaries
-- Practical challenges
-- Security techniques
-- Important observations
+I prioritize documenting:
+
+- Important concepts and security techniques
+- Section-level or module-level learning
+- Practical challenges and exercises
+- AI Security research
+- Attack and defense techniques
+- Hands-on experiments
 - Screenshots and supporting evidence
-- Lessons learned
+- Lessons learned and personal observations
+- Security assessments and findings
 - Capstone projects
-- Security findings and mitigations
+- Independent AI Security projects
 
-The goal is to demonstrate **practical understanding and application**
-rather than simply showing pathway completion.
+Different learning sources may use different structures, so the repository
+structure will adapt accordingly.
+
+The goal is to demonstrate **what I learned, what I practiced, and how I
+applied it**, rather than simply listing completed courses or rooms.
 
 ---
 
@@ -196,32 +195,48 @@ ai-security-journey/
 │
 ├── README.md
 │
-├── Section-01/
-│   └── README.md
+├── TryHackMe-AI-Security/
+│   ├── Section-01-AI-Fundamentals/
+│   │   └── README.md
+│   │
+│   ├── Section-02/
+│   ├── Section-03/
+│   ├── Section-04/
+│   ├── Section-05/
+│   │
+│   └── Capstone/
 │
-├── Section-02/
-│   ├── README.md
-│   └── Challenges/
+├── Other-Learning/
+│   ├── Program-Name/
+│   │   └── README.md
+│   │
+│   └── Another-Program/
+│       └── README.md
 │
-├── Section-03/
-│   ├── README.md
-│   └── Challenges/
-│
-├── Section-04/
-│   ├── README.md
-│   └── Challenges/
-│
-├── Section-05/
-│   ├── README.md
-│   └── Challenges/
-│
-└── Capstone/
-    ├── README.md
-    ├── methodology.md
-    ├── findings.md
-    ├── remediation.md
-    └── screenshots/
+└── Projects/
+    ├── Project-01/
+    │   └── README.md
+    │
+    └── Project-02/
+        └── README.md
 ```
+
+### Structure Overview
+
+**`TryHackMe-AI-Security/`**  
+Contains my work from the TryHackMe AI Security pathway, organized by
+sections and capstone work.
+
+**`Other-Learning/`**  
+Contains AI Security learning from other platforms, courses, certifications,
+labs, research programs, and structured training outside TryHackMe.
+
+**`Projects/`**  
+Contains independent or portfolio-focused AI Security projects that go
+beyond individual learning platforms.
+
+This structure allows the repository to grow as I explore different areas
+of AI Security without making the journey dependent on a single platform.
 
 The structure will evolve as the pathway introduces different types of
 practical exercises.
@@ -292,14 +307,22 @@ No unauthorized security testing is intended or documented.
 
 ## Progress
 
-| Section | Status |
+This table tracks my progress across the different parts of my AI Security
+journey.
+
+| Area | Status |
 |---|---|
-| Section 01 — AI Fundamentals | ✅ Completed |
-| Section 02 | ⏳ Upcoming |
-| Section 03 | ⏳ Upcoming |
-| Section 04 | ⏳ Upcoming |
-| Section 05 | ⏳ Upcoming |
-| Capstone Projects | ⏳ Upcoming |
+| TryHackMe AI Security — Section 01 | ✅ Completed |
+| TryHackMe AI Security — Section 02 | ⏳ Upcoming |
+| TryHackMe AI Security — Section 03 | ⏳ Upcoming |
+| TryHackMe AI Security — Section 04 | ⏳ Upcoming |
+| TryHackMe AI Security — Section 05 | ⏳ Upcoming |
+| TryHackMe AI Security — Capstone | ⏳ Upcoming |
+| Other AI Security Learning | 🔄 Ongoing |
+| AI Security Projects | 🔄 Ongoing |
+
+Progress will be updated as I complete new training, practical work,
+research, and projects.
 
 ---
 
