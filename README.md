@@ -318,11 +318,11 @@ journey.
 | TryHackMe AI Security — Section 04 | ⏳ Upcoming |
 | TryHackMe AI Security — Section 05 | ⏳ Upcoming |
 | TryHackMe AI Security — Capstone | ⏳ Upcoming |
-| Other AI Security Learning | 🔄 Ongoing |
-| AI Security Projects | 🔄 Ongoing |
+| Other AI Security Learning | ⏳ To Be Added |
+| AI Security Projects | ⏳ To Be Added |
 
-Progress will be updated as I complete new training, practical work,
-research, and projects.
+The structure will evolve as I add new learning sources, practical
+research, and AI Security projects.
 
 ---
 
