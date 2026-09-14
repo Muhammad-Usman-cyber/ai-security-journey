@@ -196,28 +196,13 @@ ai-security-journey/
 ├── README.md
 │
 ├── TryHackMe-AI-Security/
-│   ├── Section-01-AI-Fundamentals/
-│   │   └── README.md
-│   │
-│   ├── Section-02/
-│   ├── Section-03/
-│   ├── Section-04/
-│   ├── Section-05/
-│   │
-│   └── Capstone/
-│
-├── Other-Learning/
-│   ├── Program-Name/
-│   │   └── README.md
-│   │
-│   └── Another-Program/
+│   └── Section-01-AI-Fundamentals/
 │       └── README.md
 │
+├── Other-Learning/
+│
 └── Projects/
-    ├── Project-01/
-    │   └── README.md
-    │
-    └── Project-02/
+    └── Prompt-Lab/
         └── README.md
 ```
 
@@ -234,6 +219,9 @@ labs, research programs, and structured training outside TryHackMe.
 **`Projects/`**  
 Contains independent or portfolio-focused AI Security projects that go
 beyond individual learning platforms.
+
+**`Prompt-Lab/`**
+Documents my independent Prompt Lab project, with the complete project maintained in its own repository
 
 This structure allows the repository to grow as I explore different areas
 of AI Security without making the journey dependent on a single platform.
