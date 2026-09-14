@@ -221,7 +221,7 @@ Contains independent or portfolio-focused AI Security projects that go
 beyond individual learning platforms.
 
 **`Prompt-Lab/`**
-Documents my independent Prompt Lab project, with the complete project maintained in its own repository
+Documents my independent Prompt Lab project, with the complete project maintained in its own repository.
 
 This structure allows the repository to grow as I explore different areas
 of AI Security without making the journey dependent on a single platform.
