@@ -196,7 +196,10 @@ ai-security-journey/
 ├── README.md
 │
 ├── TryHackMe-AI-Security/
-│   └── Section-01-AI-Fundamentals/
+│   ├── Section-01-AI-Fundamentals/
+│   │   └── README.md
+│   │
+│   └── Section-02-AI-Security/
 │       └── README.md
 │
 ├── Other-Learning/
@@ -301,7 +304,7 @@ journey.
 | Area | Status |
 |---|---|
 | TryHackMe AI Security — Section 01 | ✅ Completed |
-| TryHackMe AI Security — Section 02 | ⏳ Upcoming |
+| TryHackMe AI Security — Section 02 | ✅ Completed |
 | TryHackMe AI Security — Section 03 | ⏳ Upcoming |
 | TryHackMe AI Security — Section 04 | ⏳ Upcoming |
 | TryHackMe AI Security — Section 05 | ⏳ Upcoming |
