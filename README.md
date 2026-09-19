@@ -199,13 +199,19 @@ ai-security-journey/
 │   ├── Section-01-AI-Fundamentals/
 │   │   └── README.md
 │   │
-│   └── Section-02-AI-Security/
+│   ├── Section-02-AI-Security/
+│   │   └── README.md
+│   │
+│   └── Section-03-Prompt-Security/
 │       └── README.md
 │
 ├── Other-Learning/
 │
 └── Projects/
-    └── Prompt-Lab/
+    ├── Prompt-Lab/
+    │   └── README.md
+    │
+    └── Prompt-Injection-Defense-Lab/
         └── README.md
 ```
 
