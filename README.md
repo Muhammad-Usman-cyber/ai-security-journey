@@ -191,20 +191,21 @@ applied it**, rather than simply listing completed courses or rooms.
 ## Repository Structure
 
 ```text
-ai-security-journey/
+TryHackMe-AI-Security/
 │
-├── README.md
+├── Section-01-AI-Fundamentals/
+│   └── README.md
 │
-├── TryHackMe-AI-Security/
-│   ├── Section-01-AI-Fundamentals/
-│   │   └── README.md
-│   │
-│   ├── Section-02-AI-Security/
-│   │   └── README.md
-│   │
-│   └── Section-03-Prompt-Security/
-│       └── README.md
+├── Section-02-AI-Security/
+│   └── README.md
 │
+├── Section-03-Prompt-Security/
+│   └── README.md
+│
+└── Section-04-AI-Supply-Chain-Security/
+|    └── README.md
+│
+|
 ├── Other-Learning/
 │
 └── Projects/
