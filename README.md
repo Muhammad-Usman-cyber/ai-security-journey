@@ -312,10 +312,9 @@ journey.
 |---|---|
 | TryHackMe AI Security — Section 01 | ✅ Completed |
 | TryHackMe AI Security — Section 02 | ✅ Completed |
-| TryHackMe AI Security — Section 03 | ⏳ Upcoming |
-| TryHackMe AI Security — Section 04 | ⏳ Upcoming |
+| TryHackMe AI Security — Section 03 | ✅ Completed |
+| TryHackMe AI Security — Section 04 | ✅ Completed |
 | TryHackMe AI Security — Section 05 | ⏳ Upcoming |
-| TryHackMe AI Security — Capstone | ⏳ Upcoming |
 | Other AI Security Learning | ⏳ To Be Added |
 | AI Security Projects | ⏳ To Be Added |
 
