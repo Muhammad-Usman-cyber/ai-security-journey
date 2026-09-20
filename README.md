@@ -477,14 +477,14 @@ ai-security-journey/
 ├── Other-Learning/
 │
 └── Projects/
-	    ├── Prompt-Lab/
-	    │   └── README.md
-	    │
-	    ├── Prompt-Injection-Defense-Lab/
-	    │   └── README.md
-	    │
-	    └── RAG-Security-Lab/
-	        └── README.md
+    ├── Prompt-Lab/
+    │   └── README.md
+    │
+    ├── Prompt-Injection-Defense-Lab/
+    │   └── README.md
+    │
+    └── RAG-Security-Lab/
+        └── README.md
 ```
 
 ## Structure Overview
