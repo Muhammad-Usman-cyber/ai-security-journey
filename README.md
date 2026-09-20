@@ -402,6 +402,20 @@ Documentation:
 
 `Projects/Prompt-Injection-Defense-Lab/`
 
+## RAG Security Lab
+
+An independent interactive security learning project focused on understanding Retrieval-Augmented Generation (RAG) attacks and layered defensive concepts.
+
+The project explores concepts such as:
+
+- Data poisoning
+- Retrieval manipulation
+- Indirect prompt injection
+- Sensitive information disclosure
+- Chunk trust scoring
+- Instruction hierarchy
+- Output filtering
+- Defense-in-depth
 ---
 
 # Documentation Philosophy
@@ -463,12 +477,14 @@ ai-security-journey/
 ├── Other-Learning/
 │
 └── Projects/
-    │
-    ├── Prompt-Lab/
-    │   └── README.md
-    │
-    └── Prompt-Injection-Defense-Lab/
-        └── README.md
+	    ├── Prompt-Lab/
+	    │   └── README.md
+	    │
+	    ├── Prompt-Injection-Defense-Lab/
+	    │   └── README.md
+	    │
+	    └── RAG-Security-Lab/
+	        └── README.md
 ```
 
 ## Structure Overview
@@ -485,7 +501,9 @@ Projects/
 │   ├── Prompt-Lab/
 │   │   └── Documents my independent Prompt Lab project.
 │   └── Prompt-Injection-Defense-Lab/
-│       └── Documents my independent project focused on understanding and defending against prompt injection attacks.
+│   |   └── Documents my independent project focused on understanding and defending against prompt injection attacks.
+│   ├── RAG-Security-Lab/
+│   │   └── Documents my independent project exploring RAG-specific attacks and layered defenses.
 ```
 
 ## Progress
@@ -501,6 +519,7 @@ Projects/
 | **TryHackMe AI Security Certificate** | ✅ Added |
 | **Prompt Lab** | ✅ Completed |
 | **Prompt Injection Defense Lab** | ✅ Completed |
+| **RAG Security Lab** | ✅ Completed |
 | **Other AI Security Learning** | 🔄 Ongoing |
 | **AI Security Research** | 🔄 Ongoing |
 | **AI Security Projects** | 🔄 Ongoing |
