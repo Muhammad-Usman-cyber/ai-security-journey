@@ -498,15 +498,19 @@ TryHackMe-AI-Security/
 │
 Other-Learning/
 ├── Contains AI Security learning from other platforms, courses, certifications, labs, research programs, and structured training outside TryHackMe.
+│   └── InfoSecLabs-AI-Security/
+│       └── Documents my completed InfoSecLabs "AI Security (The New Frontier)" learning path and credential.
 │
 Projects/
 ├── Contains independent AI Security projects that demonstrate practical application beyond individual learning platforms.
 │   ├── Prompt-Lab/
 │   │   └── Documents my independent Prompt Lab project.
-│   └── Prompt-Injection-Defense-Lab/
-│   |   └── Documents my independent project focused on understanding and defending against prompt injection attacks.
-│   ├── RAG-Security-Lab/
-│   │   └── Documents my independent project exploring RAG-specific attacks and layered defenses.
+│   │
+│   ├── Prompt-Injection-Defense-Lab/
+│   │   └── Documents my independent project focused on understanding and defending against prompt injection attacks.
+│   │
+│   └── RAG-Security-Lab/
+│       └── Documents my independent project exploring RAG-specific attacks and layered defenses.
 ```
 
 ## Progress
