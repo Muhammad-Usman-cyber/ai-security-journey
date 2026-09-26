@@ -515,21 +515,25 @@ Projects/
 
 ## Progress
 
+This table tracks my progress across the different parts of my AI Security
+journey.
+
 | Area | Status |
-| :--- | :--- |
-| **TryHackMe AI Security — Section 01: AI Fundamentals** | ✅ Completed |
-| **TryHackMe AI Security — Section 02: AI Security** | ✅ Completed |
-| **TryHackMe AI Security — Section 03: Prompt Security** | ✅ Completed |
-| **TryHackMe AI Security — Section 04: AI Supply Chain Security** | ✅ Completed |
-| **TryHackMe AI Security — Section 05: Data Poisoning** | ✅ Completed |
-| **TryHackMe AI Security Pathway** | ✅ Completed |
-| **TryHackMe AI Security Certificate** | ✅ Added |
-| **Prompt Lab** | ✅ Completed |
-| **Prompt Injection Defense Lab** | ✅ Completed |
-| **RAG Security Lab** | ✅ Completed |
-| **Other AI Security Learning** | 🔄 Ongoing |
-| **AI Security Research** | 🔄 Ongoing |
-| **AI Security Projects** | 🔄 Ongoing |
+|------|--------|
+| TryHackMe AI Security — Section 01: AI Fundamentals | ✅ Completed |
+| TryHackMe AI Security — Section 02: AI Security | ✅ Completed |
+| TryHackMe AI Security — Section 03: Prompt Security | ✅ Completed |
+| TryHackMe AI Security — Section 04: AI Supply Chain Security | ✅ Completed |
+| TryHackMe AI Security — Section 05: Data Poisoning | ✅ Completed |
+| TryHackMe AI Security Pathway | ✅ Completed |
+| TryHackMe AI Security Certificate | ✅ Added |
+| InfoSecLabs — AI Security (The New Frontier) | ✅ Completed |
+| Prompt Lab | ✅ Completed |
+| Prompt Injection Defense Lab | ✅ Completed |
+| RAG Security Lab | ✅ Completed |
+| Other AI Security Learning | 🔄 Ongoing |
+| AI Security Research | 🔄 Ongoing |
+| AI Security Projects | 🔄 Ongoing |
 
 ## Skills Developed
 
