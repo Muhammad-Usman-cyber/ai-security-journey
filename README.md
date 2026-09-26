@@ -475,7 +475,10 @@ ai-security-journey/
 │       └── README.md
 │
 ├── Other-Learning/
-│
+│   └── InfoSecLabs-AI-Security/
+|   ├── README.md
+|   └── InfoSecLabs-AI-Security-The-New-Frontier.pdf
+|
 └── Projects/
     ├── Prompt-Lab/
     │   └── README.md
